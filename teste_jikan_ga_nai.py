@@ -2,23 +2,32 @@ import json
 import requests
 
 
+def get_request(url_args: str) -> dict:
+    """ Faz o request e retorna o json_data
+    :param - url_args: argumentos colocados na url para pegar o json
+    :return - Json resposta na forma de Dict
+    """
+    try:
+        response = requests.get(f"https://api.jikan.moe/v4/{url_args}", timeout=10)
+
+        json_data = json.loads(response.text)
+        return json_data
+
+    except requests.exceptions.ConnectionError:
+        print('Something bad ;-;')
+        return None
+
+
 def get_day(id_mal: int):
     """ diz quando o anime com o ID informado lança novos episodeos
     :param - id_mal
-    :return - 
+    :return - None
     """
-    try:
-        response = requests.get(f"https://api.jikan.moe/v4/anime/{id_mal}", timeout=10)
+    data = get_request(f"anime/{id_mal}")
 
-        json_data = json.loads(response.text)
-    except requests.exceptions.ConnectionError:
-        pass
-    # print(json.dumps(json_data, indent=4))
-
-
-    nome = json_data["data"]["title"]
-    day  = json_data["data"]["broadcast"]["day"]
-    time  = json_data["data"]["broadcast"]["time"]
+    day  = data["data"]["broadcast"]["day"]
+    nome = data["data"]["title"]
+    time  = data["data"]["broadcast"]["time"]
 
     print(f"\nO anime {nome} lança um episodio novo as {time} de {day}\n")
 
@@ -26,20 +35,18 @@ def get_day(id_mal: int):
 def lista_do_dia(day:str):
     """ Diz os animes que lançam no dia informado"""
     current_page = 1
-    response = requests.get(f"https://api.jikan.moe/v4/seasons/now?page={current_page}", timeout=10) # Criar uma função para a respostas e load de json seria uma boa
-    json_data = json.loads(response.text)
+    data = get_request(f"seasons/now?page={current_page}")
 
-    while json_data["pagination"]["last_visible_page"] >= current_page:
+    while data["pagination"]["last_visible_page"] >= current_page:
         # print(current_page)
-        for title in json_data["data"]:
+        for title in data["data"]:
             if title["broadcast"]["day"] == day:
                 print(title["title"], f"id={title['mal_id']},\n")
 
         current_page += 1
-        response = requests.get(f"https://api.jikan.moe/v4/seasons/now?page={current_page}", timeout=10)
-        json_data = json.loads(response.text)
+        data = get_request(f"seasons/now?page={current_page}")
 
 
 
-get_day(id_mal=51815)
+get_day(id_mal=1)
 #lista_do_dia("Mondays")
