@@ -1,447 +1,439 @@
 [
     {
-        "nome": "Vinland Saga Season 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1170/124312.jpg",
+        "nome": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+        "image": "https://cdn.myanimelist.net/images/anime/1297/133915.jpg",
         "time": {
-            "dia": "Segundas",
-            "horas": "12:30"
+            "dia": "Domingos",
+            "horas": "11:15"
         }
     },
     {
-        "nome": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
-        "image": "https://cdn.myanimelist.net/images/anime/1471/128323.jpg",
+        "nome": "Dr. Stone: New World",
+        "image": "https://cdn.myanimelist.net/images/anime/1327/134934.jpg",
+        "time": {
+            "dia": "Quintas",
+            "horas": "10:30"
+        }
+    },
+    {
+        "nome": "Jigokuraku",
+        "image": "https://cdn.myanimelist.net/images/anime/1931/134936.jpg",
         "time": {
             "dia": "S\u00e1bados",
-            "horas": "12:30"
+            "horas": "11:00"
         }
     },
     {
-        "nome": "Tokyo Revengers: Seiya Kessen-hen",
-        "image": "https://cdn.myanimelist.net/images/anime/1773/132313.jpg",
+        "nome": "Tonikaku Kawaii 2nd Season",
+        "image": "https://cdn.myanimelist.net/images/anime/1616/135036.jpg",
         "time": {
-            "dia": "S\u00e1bados",
-            "horas": "14:08"
+            "dia": "Sextas",
+            "horas": "13:05"
         }
     },
     {
-        "nome": "Tomo-chan wa Onnanoko!",
-        "image": "https://cdn.myanimelist.net/images/anime/1444/131828.jpg",
+        "nome": "Kono Subarashii Sekai ni Bakuen wo!",
+        "image": "https://cdn.myanimelist.net/images/anime/1609/135031.jpg",
         "time": {
             "dia": "Quartas",
-            "horas": "12:30"
-        }
-    },
-    {
-        "nome": "Ijiranaide, Nagatoro-san 2nd Attack",
-        "image": "https://cdn.myanimelist.net/images/anime/1902/129579.jpg",
-        "time": {
-            "dia": "S\u00e1bados",
             "horas": "13:00"
         }
     },
     {
-        "nome": "NieR:Automata Ver1.1a",
-        "image": "https://cdn.myanimelist.net/images/anime/1399/128318.jpg",
-        "time": {
-            "dia": "S\u00e1bados",
-            "horas": "12:00"
-        }
-    },
-    {
-        "nome": "Bungou Stray Dogs 4th Season",
-        "image": "https://cdn.myanimelist.net/images/anime/1263/132759.jpg",
+        "nome": "\"Oshi no Ko\"",
+        "image": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg",
         "time": {
             "dia": "Quartas",
             "horas": "11:00"
         }
     },
     {
-        "nome": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1782/128859.jpg",
+        "nome": "Mahoutsukai no Yome Season 2",
+        "image": "https://cdn.myanimelist.net/images/anime/1508/132685.jpg",
         "time": {
-            "dia": "Quartas",
-            "horas": "11:30"
+            "dia": "Quintas",
+            "horas": "10:00"
         }
     },
     {
-        "nome": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
-        "image": "https://cdn.myanimelist.net/images/anime/1240/133638.jpg",
-        "time": {
-            "dia": "S\u00e1bados",
-            "horas": "10:30"
-        }
-    },
-    {
-        "nome": "Buddy Daddies",
-        "image": "https://cdn.myanimelist.net/images/anime/1553/133767.jpg",
+        "nome": "Mashle",
+        "image": "https://cdn.myanimelist.net/images/anime/1706/134359.jpg",
         "time": {
             "dia": "Sextas",
             "horas": "12:00"
         }
     },
     {
-        "nome": "Koori Zokusei Danshi to Cool na Douryou Joshi",
-        "image": "https://cdn.myanimelist.net/images/anime/1927/132758.jpg",
+        "nome": "Yamada-kun to Lv999 no Koi wo Suru",
+        "image": "https://cdn.myanimelist.net/images/anime/1507/134923.jpg",
         "time": {
-            "dia": "Quartas",
-            "horas": "10:30"
+            "dia": "S\u00e1bados",
+            "horas": "12:30"
         }
     },
     {
-        "nome": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen",
-        "image": "https://cdn.myanimelist.net/images/anime/1226/131884.jpg",
+        "nome": "Ousama Ranking: Yuuki no Takarabako",
+        "image": "https://cdn.myanimelist.net/images/anime/1897/131615.jpg",
         "time": {
-            "dia": "Sextas",
-            "horas": "13:05"
+            "dia": "Quintas",
+            "horas": "12:55"
         }
     },
     {
-        "nome": "Kubo-san wa Mob wo Yurusanai",
-        "image": "https://cdn.myanimelist.net/images/anime/1818/132330.jpg",
-        "time": {
-            "dia": "Ter\u00e7as",
-            "horas": "9:30"
-        }
-    },
-    {
-        "nome": "Kyokou Suiri Season 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1901/131653.jpg",
+        "nome": "Isekai wa Smartphone to Tomo ni. 2",
+        "image": "https://cdn.myanimelist.net/images/anime/1932/131464.jpg",
         "time": {
             "dia": "Domingos",
-            "horas": "13:05"
+            "horas": "14:00"
         }
     },
     {
-        "nome": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
-        "image": "https://cdn.myanimelist.net/images/anime/1053/129004.jpg",
-        "time": {
-            "dia": "Quartas",
-            "horas": "9:00"
-        }
-    },
-    {
-        "nome": "Spy Kyoushitsu",
-        "image": "https://cdn.myanimelist.net/images/anime/1491/132864.jpg",
+        "nome": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+        "image": "https://cdn.myanimelist.net/images/anime/1316/134327.jpg",
         "time": {
             "dia": "Quintas",
-            "horas": "10:30"
+            "horas": "12:30"
         }
     },
     {
-        "nome": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
-        "image": "https://cdn.myanimelist.net/images/anime/1446/131578.jpg",
-        "time": {
-            "dia": "Ter\u00e7as",
-            "horas": "11:00"
-        }
-    },
-    {
-        "nome": "Tondemo Skill de Isekai Hourou Meshi",
-        "image": "https://cdn.myanimelist.net/images/anime/1661/131889.jpg",
-        "time": {
-            "dia": "Ter\u00e7as",
-            "horas": "12:00"
-        }
-    },
-    {
-        "nome": "Trigun Stampede",
-        "image": "https://cdn.myanimelist.net/images/anime/1426/129194.jpg",
-        "time": {
-            "dia": "S\u00e1bados",
-            "horas": "11:00"
-        }
-    },
-    {
-        "nome": "Saikyou Onmyouji no Isekai Tenseiki",
-        "image": "https://cdn.myanimelist.net/images/anime/1547/125900.jpg",
-        "time": {
-            "dia": "S\u00e1bados",
-            "horas": "11:30"
-        }
-    },
-    {
-        "nome": "Isekai Nonbiri Nouka",
-        "image": "https://cdn.myanimelist.net/images/anime/1983/132329.jpg",
-        "time": {
-            "dia": "Sextas",
-            "horas": "9:00"
-        }
-    },
-    {
-        "nome": "Hyouken no Majutsushi ga Sekai wo Suberu",
-        "image": "https://cdn.myanimelist.net/images/anime/1049/131580.jpg",
-        "time": {
-            "dia": "Quintas",
-            "horas": "13:28"
-        }
-    },
-    {
-        "nome": "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi\u2640",
-        "image": "https://cdn.myanimelist.net/images/anime/1044/129594.jpg",
+        "nome": "Kimi wa Houkago Insomnia",
+        "image": "https://cdn.myanimelist.net/images/anime/1146/134932.jpg",
         "time": {
             "dia": "Segundas",
-            "horas": "13:45"
+            "horas": "12:00"
         }
     },
     {
-        "nome": "Oniichan wa Oshimai!",
-        "image": "https://cdn.myanimelist.net/images/anime/1058/131632.jpg",
+        "nome": "Boku no Kokoro no Yabai Yatsu",
+        "image": "https://cdn.myanimelist.net/images/anime/1545/133887.jpg",
         "time": {
-            "dia": "Quintas",
-            "horas": "11:30"
+            "dia": "S\u00e1bados",
+            "horas": "13:30"
         }
     },
     {
-        "nome": "Benriya Saitou-san, Isekai ni Iku",
-        "image": "https://cdn.myanimelist.net/images/anime/1805/132335.jpg",
-        "time": {
-            "dia": "Domingos",
-            "horas": "10:30"
-        }
-    },
-    {
-        "nome": "Inu ni Nattara Suki na Hito ni Hirowareta.",
-        "image": "https://cdn.myanimelist.net/images/anime/1832/132333.jpg",
-        "time": {
-            "dia": "Sextas",
-            "horas": "13:35"
-        }
-    },
-    {
-        "nome": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life",
-        "image": "https://cdn.myanimelist.net/images/anime/1224/132328.jpg",
+        "nome": "Tengoku Daimakyou",
+        "image": "https://cdn.myanimelist.net/images/anime/1702/134925.jpg",
         "time": {
             "dia": "S\u00e1bados",
             "horas": "10:00"
         }
     },
     {
-        "nome": "Kami-tachi ni Hirowareta Otoko 2nd Season",
-        "image": "https://cdn.myanimelist.net/images/anime/1521/131469.jpg",
-        "time": {
-            "dia": "Domingos",
-            "horas": "12:00"
-        }
-    },
-    {
-        "nome": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
-        "image": "https://cdn.myanimelist.net/images/anime/1862/128297.jpg",
-        "time": {
-            "dia": "Sextas",
-            "horas": "13:23"
-        }
-    },
-    {
-        "nome": "High Card",
-        "image": "https://cdn.myanimelist.net/images/anime/1803/131345.jpg",
-        "time": {
-            "dia": "Segundas",
-            "horas": "8:00"
-        }
-    },
-    {
-        "nome": "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san",
-        "image": "https://cdn.myanimelist.net/images/anime/1997/131327.jpg",
-        "time": {
-            "dia": "Sextas",
-            "horas": "13:55"
-        }
-    },
-    {
-        "nome": "Revenger",
-        "image": "https://cdn.myanimelist.net/images/anime/1884/131748.jpg",
-        "time": {
-            "dia": "Quintas",
-            "horas": "9:00"
-        }
-    },
-    {
-        "nome": "Sugar Apple Fairy Tale",
-        "image": "https://cdn.myanimelist.net/images/anime/1897/131300.jpg",
-        "time": {
-            "dia": "Sextas",
-            "horas": "9:30"
-        }
-    },
-    {
-        "nome": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
-        "image": "https://cdn.myanimelist.net/images/anime/1890/131473.jpg",
+        "nome": "Isekai Shoukan wa Nidome desu",
+        "image": "https://cdn.myanimelist.net/images/anime/1387/134151.jpg",
         "time": {
             "dia": "S\u00e1bados",
             "horas": "14:00"
         }
     },
     {
-        "nome": "Ayakashi Triangle",
-        "image": "https://cdn.myanimelist.net/images/anime/1078/131921.jpg",
+        "nome": "Otonari ni Ginga",
+        "image": "https://cdn.myanimelist.net/images/anime/1914/133045.jpg",
         "time": {
-            "dia": "Segundas",
-            "horas": "13:00"
+            "dia": "S\u00e1bados",
+            "horas": "13:30"
         }
     },
     {
-        "nome": "Ooyukiumi no Kaina",
-        "image": "https://cdn.myanimelist.net/images/anime/1064/131833.jpg",
+        "nome": "Kuma Kuma Kuma Bear Punch!",
+        "image": "https://cdn.myanimelist.net/images/anime/1132/134608.jpg",
         "time": {
-            "dia": "Quartas",
+            "dia": "Segundas",
+            "horas": "10:00"
+        }
+    },
+    {
+        "nome": "My Home Hero",
+        "image": "https://cdn.myanimelist.net/images/anime/1525/132959.jpg",
+        "time": {
+            "dia": "Domingos",
+            "horas": "11:30"
+        }
+    },
+    {
+        "nome": "Edens Zero 2nd Season",
+        "image": "https://cdn.myanimelist.net/images/anime/1646/134937.jpg",
+        "time": {
+            "dia": "S\u00e1bados",
             "horas": "12:55"
         }
     },
     {
-        "nome": "Tsurune: Tsunagari no Issha",
-        "image": "https://cdn.myanimelist.net/images/anime/1803/132337.jpg",
+        "nome": "Kanojo ga Koushaku-tei ni Itta Riyuu",
+        "image": "https://cdn.myanimelist.net/images/anime/1109/130452.jpg",
         "time": {
-            "dia": "Quartas",
+            "dia": "Segundas",
+            "horas": "9:30"
+        }
+    },
+    {
+        "nome": "Skip to Loafer",
+        "image": "https://cdn.myanimelist.net/images/anime/1355/133785.jpg",
+        "time": {
+            "dia": "Ter\u00e7as",
+            "horas": "11:00"
+        }
+    },
+    {
+        "nome": "Dead Mount Death Play",
+        "image": "https://cdn.myanimelist.net/images/anime/1684/134928.jpg",
+        "time": {
+            "dia": "Segundas",
             "horas": "12:00"
         }
     },
     {
-        "nome": "Ars no Kyojuu",
-        "image": "https://cdn.myanimelist.net/images/anime/1866/133949.jpg",
+        "nome": "Kidou Senshi Gundam: Suisei no Majo Season 2",
+        "image": "https://cdn.myanimelist.net/images/anime/1023/134768.jpg",
         "time": {
-            "dia": "Sextas",
-            "horas": "13:25"
+            "dia": "Domingos",
+            "horas": "5:00"
         }
     },
     {
-        "nome": "Hikari no Ou",
-        "image": "https://cdn.myanimelist.net/images/anime/1787/131675.jpg",
+        "nome": "Yuusha ga Shinda!",
+        "image": "https://cdn.myanimelist.net/images/anime/1868/133866.jpg",
+        "time": {
+            "dia": "Quintas",
+            "horas": "13:00"
+        }
+    },
+    {
+        "nome": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+        "image": "https://cdn.myanimelist.net/images/anime/1402/134000.jpg",
+        "time": {
+            "dia": "Domingos",
+            "horas": "12:00"
+        }
+    },
+    {
+        "nome": "Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita",
+        "image": "https://cdn.myanimelist.net/images/anime/1967/129736.jpg",
         "time": {
             "dia": "S\u00e1bados",
             "horas": "10:30"
         }
     },
     {
-        "nome": "Mononogatari",
-        "image": "https://cdn.myanimelist.net/images/anime/1173/131830.jpg",
+        "nome": "Watashi no Yuri wa Oshigoto desu!",
+        "image": "https://cdn.myanimelist.net/images/anime/1708/133360.jpg",
         "time": {
-            "dia": "Segundas",
+            "dia": "Quintas",
+            "horas": "10:30"
+        }
+    },
+    {
+        "nome": "Megami no Caf\u00e9 Terrace",
+        "image": "https://cdn.myanimelist.net/images/anime/1766/130919.jpg",
+        "time": {
+            "dia": "Sextas",
+            "horas": "13:25"
+        }
+    },
+    {
+        "nome": "Ao no Orchestra",
+        "image": "https://cdn.myanimelist.net/images/anime/1832/133754.jpg",
+        "time": {
+            "dia": "Domingos",
+            "horas": "5:00"
+        }
+    },
+    {
+        "nome": "Kaminaki Sekai no Kamisama Katsudou",
+        "image": "https://cdn.myanimelist.net/images/anime/1088/134647.jpg",
+        "time": {
+            "dia": "Quartas",
+            "horas": "13:30"
+        }
+    },
+    {
+        "nome": "Niehime to Kemono no Ou",
+        "image": "https://cdn.myanimelist.net/images/anime/1397/133339.jpg",
+        "time": {
+            "dia": "Quartas",
             "horas": "12:00"
         }
     },
     {
-        "nome": "The Legend of Heroes: Sen no Kiseki - Northern War",
-        "image": "https://cdn.myanimelist.net/images/anime/1894/133297.jpg",
+        "nome": "Mahou Shoujo Magical Destroyers",
+        "image": "https://cdn.myanimelist.net/images/anime/1203/134079.jpg",
         "time": {
-            "dia": "Domingos",
-            "horas": "11:30"
+            "dia": "Sextas",
+            "horas": "13:55"
         }
     },
     {
-        "nome": "Nokemono-tachi no Yoru",
-        "image": "https://cdn.myanimelist.net/images/anime/1087/129002.jpg",
+        "nome": "Birdie Wing: Golf Girls' Story Season 2",
+        "image": "https://cdn.myanimelist.net/images/anime/1112/133760.jpg",
+        "time": {
+            "dia": "Quintas",
+            "horas": "13:23"
+        }
+    },
+    {
+        "nome": "Kawaisugi Crisis",
+        "image": "https://cdn.myanimelist.net/images/anime/1332/134658.jpg",
+        "time": {
+            "dia": "Sextas",
+            "horas": "10:30"
+        }
+    },
+    {
+        "nome": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.",
+        "image": "https://cdn.myanimelist.net/images/anime/1350/133642.jpg",
         "time": {
             "dia": "Domingos",
             "horas": "10:00"
         }
     },
     {
-        "nome": "Kyuuketsuki Sugu Shinu 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1254/131832.jpg",
+        "nome": "Edomae Elf",
+        "image": "https://cdn.myanimelist.net/images/anime/1171/133777.jpg",
         "time": {
-            "dia": "Segundas",
-            "horas": "11:00"
+            "dia": "Sextas",
+            "horas": "14:25"
         }
     },
     {
-        "nome": "Mou Ippon!",
-        "image": "https://cdn.myanimelist.net/images/anime/1039/131684.jpg",
+        "nome": "The Marginal Service",
+        "image": "https://cdn.myanimelist.net/images/anime/1065/134926.jpg",
         "time": {
-            "dia": "Domingos",
+            "dia": "Ter\u00e7as",
+            "horas": "13:29"
+        }
+    },
+    {
+        "nome": "Rokudou no Onna-tachi",
+        "image": "https://cdn.myanimelist.net/images/anime/1933/134709.jpg",
+        "time": {
+            "dia": "Sextas",
             "horas": "13:35"
         }
     },
     {
-        "nome": "Pokemon: Mezase Pokemon Master",
-        "image": "https://cdn.myanimelist.net/images/anime/1063/131885.jpg",
+        "nome": "Tokyo Mew Mew New \u2661 2nd Season",
+        "image": "https://cdn.myanimelist.net/images/anime/1274/133807.jpg",
+        "time": {
+            "dia": "Ter\u00e7as",
+            "horas": "12:00"
+        }
+    },
+    {
+        "nome": "Pokemon (Shinsaku Anime)",
+        "image": "https://cdn.myanimelist.net/images/anime/1831/133946.jpg",
         "time": {
             "dia": "Sextas",
             "horas": "6:55"
         }
     },
     {
-        "nome": "Technoroid: Overmind",
-        "image": "https://cdn.myanimelist.net/images/anime/1208/132388.jpg",
+        "nome": "Kizuna no Allele",
+        "image": "https://cdn.myanimelist.net/images/anime/1632/133752.jpg",
+        "time": {
+            "dia": "Segundas",
+            "horas": "13:30"
+        }
+    },
+    {
+        "nome": "Opus.COLORs",
+        "image": "https://cdn.myanimelist.net/images/anime/1758/134733.jpg",
+        "time": {
+            "dia": "Quintas",
+            "horas": "12:00"
+        }
+    },
+    {
+        "nome": "The IDOLM@STER Cinderella Girls: U149",
+        "image": "https://cdn.myanimelist.net/images/anime/1875/133377.jpg",
         "time": {
             "dia": "Quartas",
             "horas": "12:00"
         }
     },
     {
-        "nome": "Majutsushi Orphen Hagure Tabi: Urbanrama-hen",
-        "image": "https://cdn.myanimelist.net/images/anime/1388/132318.jpg",
+        "nome": "Alice Gear Aegis Expansion",
+        "image": "https://cdn.myanimelist.net/images/anime/1227/134078.jpg",
+        "time": {
+            "dia": "Segundas",
+            "horas": "13:05"
+        }
+    },
+    {
+        "nome": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
+        "image": "https://cdn.myanimelist.net/images/anime/1681/134297.jpg",
         "time": {
             "dia": "Quartas",
             "horas": "8:30"
         }
     },
     {
-        "nome": "Nijiyon Animation",
-        "image": "https://cdn.myanimelist.net/images/anime/1181/131434.jpg",
+        "nome": "World Dai Star",
+        "image": "https://cdn.myanimelist.net/images/anime/1203/133808.jpg",
         "time": {
-            "dia": "Sextas",
-            "horas": "9:54"
-        }
-    },
-    {
-        "nome": "D4DJ All Mix",
-        "image": "https://cdn.myanimelist.net/images/anime/1995/129754.jpg",
-        "time": {
-            "dia": "Sextas",
+            "dia": "Domingos",
             "horas": "11:00"
         }
     },
     {
-        "nome": "UniteUp!",
-        "image": "https://cdn.myanimelist.net/images/anime/1308/130458.jpg",
+        "nome": "Mix: Meisei Story - Nidome no Natsu, Sora no Mukou e",
+        "image": "https://cdn.myanimelist.net/images/anime/1234/134065.jpg",
         "time": {
             "dia": "S\u00e1bados",
-            "horas": "11:30"
+            "horas": "5:30"
         }
     },
     {
-        "nome": "Boku to Roboko",
-        "image": "https://cdn.myanimelist.net/images/anime/1306/131831.jpg",
+        "nome": "Tousouchuu: Great Mission",
+        "image": "https://cdn.myanimelist.net/images/anime/1895/133256.jpg",
+        "time": {
+            "dia": "S\u00e1bados",
+            "horas": "21:00"
+        }
+    },
+    {
+        "nome": "Bosanimal",
+        "image": "https://cdn.myanimelist.net/images/anime/1360/133846.jpg",
         "time": {
             "dia": "Domingos",
-            "horas": "12:30"
+            "horas": "21:50"
         }
     },
     {
-        "nome": "Hirogaru Sky! Precure",
-        "image": "https://cdn.myanimelist.net/images/anime/1688/132531.jpg",
+        "nome": "Gunma-chan Season 2",
+        "image": "https://cdn.myanimelist.net/images/anime/1471/132675.jpg",
+        "time": {
+            "dia": "Sextas",
+            "horas": "19:58"
+        }
+    },
+    {
+        "nome": "Oshiri Tantei 7th Season",
+        "image": "https://cdn.myanimelist.net/images/anime/1288/130433.jpg",
+        "time": {
+            "dia": "Sextas",
+            "horas": "21:00"
+        }
+    },
+    {
+        "nome": "Duel Masters Win: Duel Wars-hen",
+        "image": "https://cdn.myanimelist.net/images/anime/1618/134534.jpg",
         "time": {
             "dia": "S\u00e1bados",
             "horas": "20:30"
         }
     },
     {
-        "nome": "Flaglia: Natsuyasumi no Monogatari",
-        "image": "https://cdn.myanimelist.net/images/anime/1065/129807.jpg",
+        "nome": "Sore Shikanai Wakenai Deshou",
+        "image": "https://cdn.myanimelist.net/images/anime/1977/133957.jpg",
         "time": {
-            "dia": "Segundas",
-            "horas": "13:35"
+            "dia": "Ter\u00e7as",
+            "horas": "21:45"
         }
     },
     {
-        "nome": "Cardfight!! Vanguard: will+Dress Season 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1259/131669.jpg",
-        "time": {
-            "dia": "Sextas",
-            "horas": "20:00"
-        }
-    },
-    {
-        "nome": "KJ File 2nd Season",
-        "image": "https://cdn.myanimelist.net/images/anime/1416/132315.jpg",
-        "time": {
-            "dia": "Domingos",
-            "horas": "14:35"
-        }
-    },
-    {
-        "nome": "Yomawari Neko",
-        "image": "https://cdn.myanimelist.net/images/anime/1085/131383.jpg",
+        "nome": "Sakuretsu! Amabie-hime. Season 2",
+        "image": "https://cdn.myanimelist.net/images/anime/1254/134721.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
