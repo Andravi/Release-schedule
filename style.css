@@ -1,0 +1,22 @@
+div.Anime-card {
+    background-color: aquamarine;
+    width: 280px;
+    display: block;
+    align-items: center;
+    align-content: center;
+    padding-left: 10px;
+    text-align: left;
+    border: 1px solid black;
+
+}
+
+div.Anime-card>h1 {
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+div.Anime-card>h3 {
+    margin: auto;
+    vertical-align: middle;
+
+}
