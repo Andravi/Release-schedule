@@ -18,3 +18,16 @@ fetch('../weekAnimeDays.json')
     `;
 }));
 
+
+
+var ul = document.getElementById('menu_left').children[0];  // Parent
+console.log(ul)
+
+ul.addEventListener('click', function(e) {
+    if (e.target.tagName === "LI"){
+        // TODO -> Fazer uma verificação para cade um para filtrar 
+        alert(e.target.innerHTML)
+    }
+    
+});
+
