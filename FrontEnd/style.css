@@ -7,8 +7,42 @@ body{
 }
 
 #menu{
+    display: flex;
     width: 100%;
+    background-color: darkcyan;
+    justify-content: baseline;
 }
+
+#menu_left{
+    width: 75%;
+}
+#menu_left > ul {
+    display: flex;
+    padding: 0px;
+    flex-flow: row wrap;
+    /* justify-content: center; */
+    align-items: center;
+    margin: auto;
+    height: 35px;
+}
+
+#menu_left > ul > li{
+    display: grid;
+    align-items: center;
+    width: auto;
+    height: 100%;
+    list-style-type: none;
+    padding: 0px 15px;
+    border: 3px;
+}
+
+#menu_left > ul > li:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+}
+
+
+
 
 
 div.Anime-list {
