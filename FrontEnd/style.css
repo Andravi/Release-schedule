@@ -41,6 +41,15 @@ body{
     cursor: pointer;
 }
 
+#menu_right{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    min-width: 240px;
+    margin: auto;
+
+}
+
 
 
 

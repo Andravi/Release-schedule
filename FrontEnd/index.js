@@ -1,5 +1,3 @@
-console.log('Anime Shedule');
-
 let animeCards = document.querySelector('.Anime-list');
 
 showList()
@@ -16,11 +14,10 @@ function showList(day) {
             .then(response => response.json())
             .then(animeList => animeList
                 .forEach((anime, index) => {
-                    if (anime['time']['dia'] == day) {
+                    if (anime['time']['dia'] == day) { // Mas quando é incerto ? // Tambem não aparecem o de temporadas antigas
                         let animeCard = document.createElement('div');
                         animeCard.classList.add('Anime-card')
                         animeCards.appendChild(animeCard);
-
                         animeCard.innerHTML = `
                     <h1 id="title">${anime['nome']}</h1>
                     <img src="${anime['image']}" alt="Teste">
@@ -46,13 +43,40 @@ function showList(day) {
 
                 }));
     }
+}
 
+function searchInList(name){
+    // 
+    fetch('../weekAnimeDays.json')
+            .then(response => response.json())
+            .then(animeList => animeList
+                .forEach((anime, index) => {
+                    if (anime['nome'].toLowerCase().includes(name.toLowerCase())) { // Mas quando é incerto ? // Tambem não aparecem o de temporadas antigas
+                        let animeCard = document.createElement('div');
+                        animeCard.classList.add('Anime-card')
+                        animeCards.appendChild(animeCard);
+                        animeCard.innerHTML = `
+                    <h1 id="title">${anime['nome']}</h1>
+                    <img src="${anime['image']}" alt="Teste">
+                    <h3>${anime['time']['dia']} às ${anime['time']['horas']} </h3>
+                    `;
+                    }
+                }));
 
+    if (animeCards.children.length == 0){
+        let info = document.createElement('div');
+        animeCards.appendChild(info);
+        info.innerHTML = `
+        <h1 id="title" style="color: white; text-align: center">Nenhum resultado encontrado</h1>`;
+    }
 }
 
 
-var ul = document.getElementById('menu_left').children[0];  // Parent
-console.log(ul)
+
+
+
+let ul = document.getElementById('menu_left').children[0];  // Parent BuscarBtn
+let buscarBtn = document.getElementById('BuscarBtn');
 
 ul.addEventListener('click', function (e) {
     if (e.target.tagName === "LI") {
@@ -62,3 +86,9 @@ ul.addEventListener('click', function (e) {
 
 });
 
+buscarBtn.addEventListener('click', function (e) {
+    // Pegar valor da caixa de testo -> se não vazia -> pesquisar 
+    let searchInp = document.getElementById("SearchInput")
+    clearChildres("Anime-list")
+    searchInList(searchInp.value)
+});
