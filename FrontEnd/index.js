@@ -45,9 +45,9 @@ function showList(day) {
     }
 }
 
-function searchInList(name){
+async function  searchInList(name){
     // 
-    fetch('../weekAnimeDays.json')
+    await fetch('../weekAnimeDays.json')
             .then(response => response.json())
             .then(animeList => animeList
                 .forEach((anime, index) => {
@@ -61,7 +61,8 @@ function searchInList(name){
                     <h3>${anime['time']['dia']} às ${anime['time']['horas']} </h3>
                     `;
                     }
-                }));
+                }
+                ));
 
     if (animeCards.children.length == 0){
         let info = document.createElement('div');

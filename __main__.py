@@ -128,4 +128,4 @@ def update_season_list(control: AnimeAPI):
 if __name__ == "__main__":
     api_control: AnimeAPI = AnimeAPI()
     # api_control.lista_do_dia()
-    # update_season_list(api_control)
+    update_season_list(api_control)
