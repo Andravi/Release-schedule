@@ -9,13 +9,12 @@ let releaseList = new RealeaseList()
 
 await releaseList.initList().then(
     () => {
-        console.log(releaseList.__schedule)
         showList()
     }
 )
 
 
-function clearChildres(classe) {
+function clearChildres(classe) { // COlocar Uma animação de loading enquanto está vazio
     const animeList = document.getElementsByClassName(classe)[0];
     animeList.textContent = '';
 }
@@ -33,13 +32,13 @@ function addAnimeCard(anime){
 function showList(day) {
     if (day) {
         releaseList.__schedule
-                .forEach(
-                    (anime, index) => {
-                        if (anime['time']['dia'] == day) {
-                            addAnimeCard(anime)
-                        }
+            .forEach(
+                (anime, index) => {
+                    if (anime['time']['dia'] == day) {
+                        addAnimeCard(anime)
                     }
-                );
+                }
+            );
     } else {
         releaseList.__schedule
             .forEach((anime, index) => {
@@ -48,18 +47,15 @@ function showList(day) {
     }
 }
 
-async function searchInList(name) {
-    // 
-    await fetch('../weekAnimeDays.json')
-        .then(response => response.json())
-        .then(animeList => animeList
-            .forEach((anime, index) => {
+ function searchInList(name) {
+    releaseList.__schedule
+        .forEach(
+            (anime, index) => {
                 if (anime['nome'].toLowerCase().includes(name.toLowerCase())) { // Mas quando é incerto ? // Tambem não aparecem o de temporadas antigas
                     addAnimeCard(anime)
                 }
             }
-            ));
-
+        );
     if (animeCards.children.length == 0) {
         let info = document.createElement('div');
         animeCards.appendChild(info);
