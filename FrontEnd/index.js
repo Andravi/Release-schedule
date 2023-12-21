@@ -47,7 +47,18 @@ function showList(day) {
     }
 }
 
- function searchInList(name) {
+function filterByGenre(genre) {
+    releaseList.__schedule
+        .forEach(
+            (anime, index) => {
+                if (anime['nome'].toLowerCase().includes(genre.toLowerCase())) { // Mas quando é incerto ? // Tambem não aparecem o de temporadas antigas
+                    addAnimeCard(anime)
+                }
+            }
+        );
+}
+
+function searchInList(name) {
     releaseList.__schedule
         .forEach(
             (anime, index) => {
