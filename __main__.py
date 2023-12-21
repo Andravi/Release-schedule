@@ -40,7 +40,7 @@ class AnimeAPI:
                         anime_dict["nome"] = anime["title"]
                         anime_dict["image"] = anime["images"]["jpg"]["image_url"]
                         anime_dict["time"] = get_day(anime["broadcast"])
-                        anime_dict["generos"] = anime["genres"]
+                        anime_dict["generos"] = [genero["name"] for genero in anime["genres"]]
                         anime_list.append(anime_dict)
 
             try:
@@ -54,12 +54,6 @@ class AnimeAPI:
                     print('esperando')
                     sleep(3)
                     data = self.get_request(f"seasons/now?page={current_page}")
-            # print(data["status"])
-            # if data["type"]:
-            # if data["type"] == "RateLimitException":
-            #     print("Realmente era isso")
-            #     sleep(3)
-
 
         return anime_list  # pode retornar uma lista de dicionarios com titulo, imagem e sinopse
         # To começando a gostar dessa ideia
