@@ -85,7 +85,12 @@ let buscarBtn = document.getElementById('BuscarBtn');
 ul.addEventListener('click', function (e) {
     if (e.target.tagName === "LI") {
         clearChildres("Anime-list")
-        showList(e.target.innerHTML + "s")
+        if (e.target.innerHTML == "Todos"){
+            console.log("deveria")
+            showList()
+        } else {
+            showList(e.target.innerHTML + "s")
+        }
     }
 
 });

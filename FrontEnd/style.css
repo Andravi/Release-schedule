@@ -3,7 +3,9 @@ html{
 }
 
 body{
-    margin: 200px;
+    margin: auto;
+    padding-top: 3%;
+    width: 80%;
 }
 
 #menu{
@@ -80,10 +82,12 @@ div.Anime-card {
 div.Anime-card>h1 {
     margin: auto;
     margin-bottom: 10px;
+    font-size: 25px;
+    word-wrap: break-word;
 }
 
 div.Anime-card>h3 {
     margin: auto;
     vertical-align: middle;
-    font-size: 30px;
+    font-size: 20px;
 }
