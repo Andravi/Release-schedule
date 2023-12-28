@@ -10,7 +10,6 @@ export class RealeaseList{
         releaseList = await fetch('../weekAnimeDays.json')
             .then(response => response.json())
             .then((animelist)=>{
-                // console.log(animelist)
                 return animelist
             });
         return releaseList

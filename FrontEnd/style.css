@@ -91,3 +91,13 @@ div.Anime-card>h3 {
     vertical-align: middle;
     font-size: 20px;
 }
+
+div.Anime-card>img {
+    margin-top: 10px;
+}
+
+div.Anime-card>span {
+    vertical-align: middle;
+    font-size: 16px;
+    background-color: aqua;
+}

@@ -24,6 +24,7 @@ function addAnimeCard(anime){
     animeCard.classList.add('Anime-card')
     animeCards.appendChild(animeCard);
     animeCard.innerHTML = ` <h1 id="title">${anime['nome']}</h1>
+                            <span>${anime['generos']}</span>
                             <img src="${anime['image']}" alt="Teste">
                             <h3>${anime['time']['dia']} às ${anime['time']['horas']} </h3>`;
 }
