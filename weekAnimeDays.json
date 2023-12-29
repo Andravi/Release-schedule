@@ -103,6 +103,18 @@
         ]
     },
     {
+        "nome": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+        "image": "https://cdn.myanimelist.net/images/anime/1812/136764.jpg",
+        "time": {
+            "dia": "Domingos",
+            "horas": "10:30"
+        },
+        "generos": [
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
         "nome": "Tokyo Revengers: Tenjiku-hen",
         "image": "https://cdn.myanimelist.net/images/anime/1853/139843.jpg",
         "time": {
@@ -113,18 +125,6 @@
             "Action",
             "Drama",
             "Supernatural"
-        ]
-    },
-    {
-        "nome": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-        "image": "https://cdn.myanimelist.net/images/anime/1812/136764.jpg",
-        "time": {
-            "dia": "Domingos",
-            "horas": "10:30"
-        },
-        "generos": [
-            "Comedy",
-            "Romance"
         ]
     },
     {
@@ -274,360 +274,6 @@
         },
         "generos": [
             "Comedy",
-            "Romance"
-        ]
-    },
-    {
-        "nome": "Hikikomari Kyuuketsuki no Monmon",
-        "image": "https://cdn.myanimelist.net/images/anime/1032/137893.jpg",
-        "time": {
-            "dia": "S\u00e1bados",
-            "horas": "10:30"
-        },
-        "generos": [
-            "Comedy",
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
-        "image": "https://cdn.myanimelist.net/images/anime/1720/139131.jpg",
-        "time": {
-            "dia": "Quartas",
-            "horas": "10:00"
-        },
-        "generos": [
-            "Comedy",
-            "Fantasy",
-            "Romance"
-        ]
-    },
-    {
-        "nome": "Mahoutsukai no Yome Season 2 Part 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1518/136823.jpg",
-        "time": {
-            "dia": "Quintas",
-            "horas": "10:00"
-        },
-        "generos": [
-            "Drama",
-            "Fantasy",
-            "Romance"
-        ]
-    },
-    {
-        "nome": "Tate no Yuusha no Nariagari Season 3",
-        "image": "https://cdn.myanimelist.net/images/anime/1317/139802.jpg",
-        "time": {
-            "dia": "Sextas",
-            "horas": "9:00"
-        },
-        "generos": [
-            "Action",
-            "Adventure",
-            "Drama",
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Spy x Family Season 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1506/138982.jpg",
-        "time": {
-            "dia": "S\u00e1bados",
-            "horas": "11:00"
-        },
-        "generos": [
-            "Action",
-            "Comedy"
-        ]
-    },
-    {
-        "nome": "Goblin Slayer II",
-        "image": "https://cdn.myanimelist.net/images/anime/1100/138338.jpg",
-        "time": {
-            "dia": "Sextas",
-            "horas": "10:00"
-        },
-        "generos": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
-        "image": "https://cdn.myanimelist.net/images/anime/1622/139331.jpg",
-        "time": {
-            "dia": "Quartas",
-            "horas": "10:30"
-        },
-        "generos": [
-            "Action",
-            "Comedy",
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Dr. Stone: New World Part 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1236/138696.jpg",
-        "time": {
-            "dia": "Quintas",
-            "horas": "10:30"
-        },
-        "generos": [
-            "Adventure",
-            "Comedy",
-            "Sci-Fi"
-        ]
-    },
-    {
-        "nome": "Kusuriya no Hitorigoto",
-        "image": "https://cdn.myanimelist.net/images/anime/1708/138033.jpg",
-        "time": {
-            "dia": "S\u00e1bados",
-            "horas": "13:05"
-        },
-        "generos": [
-            "Drama",
-            "Mystery"
-        ]
-    },
-    {
-        "nome": "Undead Unluck",
-        "image": "https://cdn.myanimelist.net/images/anime/1136/138410.jpg",
-        "time": {
-            "dia": "Sextas",
-            "horas": "13:23"
-        },
-        "generos": [
-            "Action",
-            "Comedy",
-            "Supernatural"
-        ]
-    },
-    {
-        "nome": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
-        "image": "https://cdn.myanimelist.net/images/anime/1500/139931.jpg",
-        "time": {
-            "dia": "Domingos",
-            "horas": "5:00"
-        },
-        "generos": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Tokyo Revengers: Tenjiku-hen",
-        "image": "https://cdn.myanimelist.net/images/anime/1853/139843.jpg",
-        "time": {
-            "dia": "Ter\u00e7as",
-            "horas": "12:00"
-        },
-        "generos": [
-            "Action",
-            "Drama",
-            "Supernatural"
-        ]
-    },
-    {
-        "nome": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-        "image": "https://cdn.myanimelist.net/images/anime/1812/136764.jpg",
-        "time": {
-            "dia": "Domingos",
-            "horas": "10:30"
-        },
-        "generos": [
-            "Comedy",
-            "Romance"
-        ]
-    },
-    {
-        "nome": "Hametsu no Oukoku",
-        "image": "https://cdn.myanimelist.net/images/anime/1610/138189.jpg",
-        "time": {
-            "dia": "Sextas",
-            "horas": "13:53"
-        },
-        "generos": [
-            "Action",
-            "Drama",
-            "Fantasy",
-            "Sci-Fi"
-        ]
-    },
-    {
-        "nome": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
-        "image": "https://cdn.myanimelist.net/images/anime/1848/140019.jpg",
-        "time": {
-            "dia": "Sextas",
-            "horas": "10:30"
-        },
-        "generos": [
-            "Romance"
-        ]
-    },
-    {
-        "nome": "Boushoku no Berserk",
-        "image": "https://cdn.myanimelist.net/images/anime/1951/138462.jpg",
-        "time": {
-            "dia": "Quartas",
-            "horas": "13:30"
-        },
-        "generos": [
-            "Action",
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Ragna Crimson",
-        "image": "https://cdn.myanimelist.net/images/anime/1763/140359.jpg",
-        "time": {
-            "dia": "S\u00e1bados",
-            "horas": "13:30"
-        },
-        "generos": [
-            "Action",
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Pluto",
-        "image": "https://cdn.myanimelist.net/images/anime/1021/138568.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Action",
-            "Mystery",
-            "Sci-Fi",
-            "Suspense"
-        ]
-    },
-    {
-        "nome": "Seiken Gakuin no Makentsukai",
-        "image": "https://cdn.myanimelist.net/images/anime/1506/138529.jpg",
-        "time": {
-            "dia": "Segundas",
-            "horas": "13:30"
-        },
-        "generos": [
-            "Action",
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Kamonohashi Ron no Kindan Suiri",
-        "image": "https://cdn.myanimelist.net/images/anime/1799/137123.jpg",
-        "time": {
-            "dia": "Segundas",
-            "horas": "10:30"
-        },
-        "generos": [
-            "Comedy",
-            "Mystery"
-        ]
-    },
-    {
-        "nome": "Saihate no Paladin: Tetsusabi no Yama no Ou",
-        "image": "https://cdn.myanimelist.net/images/anime/1031/138515.jpg",
-        "time": {
-            "dia": "S\u00e1bados",
-            "horas": "10:00"
-        },
-        "generos": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Spy x Family Movie: Code: White",
-        "image": "https://cdn.myanimelist.net/images/anime/1426/139388.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Action",
-            "Comedy"
-        ]
-    },
-    {
-        "nome": "Dead Mount Death Play Part 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1005/139809.jpg",
-        "time": {
-            "dia": "Segundas",
-            "horas": "12:00"
-        },
-        "generos": [
-            "Action",
-            "Fantasy",
-            "Supernatural"
-        ]
-    },
-    {
-        "nome": "Watashi no Oshi wa Akuyaku Reijou.",
-        "image": "https://cdn.myanimelist.net/images/anime/1531/137711.jpg",
-        "time": {
-            "dia": "Segundas",
-            "horas": "12:30"
-        },
-        "generos": [
-            "Comedy",
-            "Fantasy",
-            "Girls Love"
-        ]
-    },
-    {
-        "nome": "Kanojo mo Kanojo Season 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1063/137100.jpg",
-        "time": {
-            "dia": "Sextas",
-            "horas": "14:23"
-        },
-        "generos": [
-            "Comedy",
-            "Romance"
-        ]
-    },
-    {
-        "nome": "Hikikomari Kyuuketsuki no Monmon",
-        "image": "https://cdn.myanimelist.net/images/anime/1032/137893.jpg",
-        "time": {
-            "dia": "S\u00e1bados",
-            "horas": "10:30"
-        },
-        "generos": [
-            "Comedy",
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
-        "image": "https://cdn.myanimelist.net/images/anime/1720/139131.jpg",
-        "time": {
-            "dia": "Quartas",
-            "horas": "10:00"
-        },
-        "generos": [
-            "Comedy",
-            "Fantasy",
-            "Romance"
-        ]
-    },
-    {
-        "nome": "Mahoutsukai no Yome Season 2 Part 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1518/136823.jpg",
-        "time": {
-            "dia": "Quintas",
-            "horas": "10:00"
-        },
-        "generos": [
-            "Drama",
-            "Fantasy",
             "Romance"
         ]
     },
@@ -641,6 +287,44 @@
         "generos": [
             "Action",
             "Fantasy"
+        ]
+    },
+    {
+        "nome": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
+        "image": "https://cdn.myanimelist.net/images/anime/1720/139131.jpg",
+        "time": {
+            "dia": "Quartas",
+            "horas": "10:00"
+        },
+        "generos": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+        ]
+    },
+    {
+        "nome": "Hikikomari Kyuuketsuki no Monmon",
+        "image": "https://cdn.myanimelist.net/images/anime/1032/137893.jpg",
+        "time": {
+            "dia": "S\u00e1bados",
+            "horas": "10:30"
+        },
+        "generos": [
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "nome": "Mahoutsukai no Yome Season 2 Part 2",
+        "image": "https://cdn.myanimelist.net/images/anime/1518/136823.jpg",
+        "time": {
+            "dia": "Quintas",
+            "horas": "10:00"
+        },
+        "generos": [
+            "Drama",
+            "Fantasy",
+            "Romance"
         ]
     },
     {
@@ -683,15 +367,16 @@
         ]
     },
     {
-        "nome": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
-        "image": "https://cdn.myanimelist.net/images/anime/1563/139990.jpg",
+        "nome": "Toaru Ossan no VRMMO Katsudouki",
+        "image": "https://cdn.myanimelist.net/images/anime/1233/138531.jpg",
         "time": {
-            "dia": "Quintas",
+            "dia": "Segundas",
             "horas": "13:05"
         },
         "generos": [
             "Action",
             "Adventure",
+            "Comedy",
             "Fantasy"
         ]
     },
@@ -707,15 +392,15 @@
         ]
     },
     {
-        "nome": "Houkago Shounen Hanako-kun",
-        "image": "https://cdn.myanimelist.net/images/anime/1530/138031.jpg",
+        "nome": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+        "image": "https://cdn.myanimelist.net/images/anime/1628/137847.jpg",
         "time": {
-            "dia": "Quintas",
-            "horas": "14:13"
+            "dia": "S\u00e1bados",
+            "horas": "13:00"
         },
         "generos": [
             "Comedy",
-            "Supernatural"
+            "Fantasy"
         ]
     },
     {
@@ -730,17 +415,15 @@
         ]
     },
     {
-        "nome": "Toaru Ossan no VRMMO Katsudouki",
-        "image": "https://cdn.myanimelist.net/images/anime/1233/138531.jpg",
+        "nome": "Houkago Shounen Hanako-kun",
+        "image": "https://cdn.myanimelist.net/images/anime/1530/138031.jpg",
         "time": {
-            "dia": "Segundas",
-            "horas": "13:05"
+            "dia": "Quintas",
+            "horas": "14:13"
         },
         "generos": [
-            "Action",
-            "Adventure",
             "Comedy",
-            "Fantasy"
+            "Supernatural"
         ]
     },
     {
@@ -756,31 +439,6 @@
         ]
     },
     {
-        "nome": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
-        "image": "https://cdn.myanimelist.net/images/anime/1475/138530.jpg",
-        "time": {
-            "dia": "Domingos",
-            "horas": "4:30"
-        },
-        "generos": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
-        "image": "https://cdn.myanimelist.net/images/anime/1628/137847.jpg",
-        "time": {
-            "dia": "S\u00e1bados",
-            "horas": "13:00"
-        },
-        "generos": [
-            "Comedy",
-            "Fantasy"
-        ]
-    },
-    {
         "nome": "Migi to Dali",
         "image": "https://cdn.myanimelist.net/images/anime/1845/134817.jpg",
         "time": {
@@ -791,6 +449,19 @@
             "Comedy",
             "Mystery",
             "Suspense"
+        ]
+    },
+    {
+        "nome": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
+        "image": "https://cdn.myanimelist.net/images/anime/1475/138530.jpg",
+        "time": {
+            "dia": "Domingos",
+            "horas": "4:30"
+        },
+        "generos": [
+            "Action",
+            "Adventure",
+            "Fantasy"
         ]
     },
     {
@@ -819,19 +490,6 @@
         ]
     },
     {
-        "nome": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta\u2026 Movie",
-        "image": "https://cdn.myanimelist.net/images/anime/1360/138828.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Comedy",
-            "Fantasy",
-            "Romance"
-        ]
-    },
-    {
         "nome": "16bit Sensation: Another Layer",
         "image": "https://cdn.myanimelist.net/images/anime/1588/138395.jpg",
         "time": {
@@ -840,6 +498,7 @@
         },
         "generos": [
             "Comedy",
+            "Sci-Fi",
             "Supernatural"
         ]
     },
@@ -852,6 +511,19 @@
         },
         "generos": [
             "Slice of Life"
+        ]
+    },
+    {
+        "nome": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta\u2026 Movie",
+        "image": "https://cdn.myanimelist.net/images/anime/1360/138828.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
         ]
     },
     {
@@ -928,17 +600,6 @@
         ]
     },
     {
-        "nome": "Bokura no Ameiro Protocol",
-        "image": "https://cdn.myanimelist.net/images/anime/1160/138465.jpg",
-        "time": {
-            "dia": "S\u00e1bados",
-            "horas": "13:30"
-        },
-        "generos": [
-            "Action"
-        ]
-    },
-    {
         "nome": "Potion-danomi de Ikinobimasu!",
         "image": "https://cdn.myanimelist.net/images/anime/1182/138184.jpg",
         "time": {
@@ -948,6 +609,17 @@
         "generos": [
             "Adventure",
             "Fantasy"
+        ]
+    },
+    {
+        "nome": "Bokura no Ame-iro Protocol",
+        "image": "https://cdn.myanimelist.net/images/anime/1160/138465.jpg",
+        "time": {
+            "dia": "S\u00e1bados",
+            "horas": "13:30"
+        },
+        "generos": [
+            "Action"
         ]
     },
     {
@@ -1122,17 +794,6 @@
         ]
     },
     {
-        "nome": "Komada Jouryuusho e Youkoso",
-        "image": "https://cdn.myanimelist.net/images/anime/1932/138777.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Gourmet"
-        ]
-    },
-    {
         "nome": "Ooyukiumi no Kaina: Hoshi no Kenja",
         "image": "https://cdn.myanimelist.net/images/anime/1501/138171.jpg",
         "time": {
@@ -1141,6 +802,17 @@
         },
         "generos": [
             "Fantasy"
+        ]
+    },
+    {
+        "nome": "Komada Jouryuusho e Youkoso",
+        "image": "https://cdn.myanimelist.net/images/anime/1932/138777.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Gourmet"
         ]
     },
     {
@@ -1179,14 +851,16 @@
         ]
     },
     {
-        "nome": "Rail Romanesque 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1214/137093.jpg",
+        "nome": "Temple Specials",
+        "image": "https://cdn.myanimelist.net/images/anime/1927/138733.jpg",
         "time": {
-            "dia": "Quintas",
-            "horas": "13:00"
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
         },
         "generos": [
-            "Slice of Life"
+            "Comedy",
+            "Romance",
+            "Ecchi"
         ]
     },
     {
@@ -1202,16 +876,14 @@
         ]
     },
     {
-        "nome": "Temple Specials",
-        "image": "https://cdn.myanimelist.net/images/anime/1927/138733.jpg",
+        "nome": "Rail Romanesque 2",
+        "image": "https://cdn.myanimelist.net/images/anime/1214/137093.jpg",
         "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
+            "dia": "Quintas",
+            "horas": "13:00"
         },
         "generos": [
-            "Comedy",
-            "Romance",
-            "Ecchi"
+            "Slice of Life"
         ]
     },
     {
@@ -1223,17 +895,6 @@
         },
         "generos": [
             "Supernatural"
-        ]
-    },
-    {
-        "nome": "Kawagoe Boys Sing",
-        "image": "https://cdn.myanimelist.net/images/anime/1921/138501.jpg",
-        "time": {
-            "dia": "Segundas",
-            "horas": "11:00"
-        },
-        "generos": [
-            "Slice of Life"
         ]
     },
     {
@@ -1249,6 +910,17 @@
         ]
     },
     {
+        "nome": "Kawagoe Boys Sing",
+        "image": "https://cdn.myanimelist.net/images/anime/1921/138501.jpg",
+        "time": {
+            "dia": "Segundas",
+            "horas": "11:00"
+        },
+        "generos": [
+            "Slice of Life"
+        ]
+    },
+    {
         "nome": "Dog Signal",
         "image": "https://cdn.myanimelist.net/images/anime/1507/139161.jpg",
         "time": {
@@ -1257,6 +929,18 @@
         },
         "generos": [
             "Slice of Life"
+        ]
+    },
+    {
+        "nome": "Sousou no Frieren: \u25cf\u25cf no Mahou",
+        "image": "https://cdn.myanimelist.net/images/anime/1197/139034.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Comedy",
+            "Fantasy"
         ]
     },
     {
@@ -1291,18 +975,6 @@
             "horas": "(Incerto)"
         },
         "generos": [
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Sousou no Frieren: \u25cf\u25cf no Mahou",
-        "image": "https://cdn.myanimelist.net/images/anime/1197/139034.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Comedy",
             "Fantasy"
         ]
     },
@@ -1346,6 +1018,17 @@
         ]
     },
     {
+        "nome": "Pokemon Concierge",
+        "image": "https://cdn.myanimelist.net/images/anime/1064/139658.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Fantasy"
+        ]
+    },
+    {
         "nome": "Beyblade X",
         "image": "https://cdn.myanimelist.net/images/anime/1312/138299.jpg",
         "time": {
@@ -1355,17 +1038,6 @@
         "generos": [
             "Adventure",
             "Sports"
-        ]
-    },
-    {
-        "nome": "Pokemon Concierge",
-        "image": "https://cdn.myanimelist.net/images/anime/1064/139658.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Fantasy"
         ]
     },
     {
@@ -1431,15 +1103,14 @@
         ]
     },
     {
-        "nome": "Ghost Tale",
-        "image": "https://cdn.myanimelist.net/images/anime/1537/139454.jpg",
+        "nome": "Maomao no Hitorigoto",
+        "image": "https://cdn.myanimelist.net/images/anime/1756/139266.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
-            "Comedy",
-            "Supernatural"
+            "Mystery"
         ]
     },
     {
@@ -1469,14 +1140,15 @@
         ]
     },
     {
-        "nome": "Maomao no Hitorigoto",
-        "image": "https://cdn.myanimelist.net/images/anime/1756/139266.jpg",
+        "nome": "Ghost Tale",
+        "image": "https://cdn.myanimelist.net/images/anime/1537/139454.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
-            "Mystery"
+            "Comedy",
+            "Supernatural"
         ]
     },
     {
@@ -1518,6 +1190,17 @@
         ]
     },
     {
+        "nome": "Street Fighter 6 x Spy x Family Movie: Code: White",
+        "image": "https://cdn.myanimelist.net/images/anime/1484/140139.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action"
+        ]
+    },
+    {
         "nome": "Shinkiro",
         "image": "https://cdn.myanimelist.net/images/anime/1225/139618.jpg",
         "time": {
@@ -1526,6 +1209,19 @@
         },
         "generos": [
             "Slice of Life"
+        ]
+    },
+    {
+        "nome": "Jin Zhan Fashi",
+        "image": "https://cdn.myanimelist.net/images/anime/1228/139235.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action",
+            "Adventure",
+            "Fantasy"
         ]
     },
     {
@@ -1542,8 +1238,8 @@
         ]
     },
     {
-        "nome": "Jin Zhan Fashi",
-        "image": "https://cdn.myanimelist.net/images/anime/1228/139235.jpg",
+        "nome": "One Piece: Dai Tokushuu! Momonosuke no Mei Shogun e no Michi",
+        "image": "https://cdn.myanimelist.net/images/anime/1569/140420.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
@@ -1551,6 +1247,7 @@
         "generos": [
             "Action",
             "Adventure",
+            "Comedy",
             "Fantasy"
         ]
     },
@@ -1589,19 +1286,6 @@
         ]
     },
     {
-        "nome": "Jian Yu Feng Yun 3rd Season",
-        "image": "https://cdn.myanimelist.net/images/anime/1159/139387.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ]
-    },
-    {
         "nome": "Bai Lian Cheng Shen 2nd Season",
         "image": "https://cdn.myanimelist.net/images/anime/1393/139861.jpg",
         "time": {
@@ -1612,17 +1296,6 @@
             "Action",
             "Adventure",
             "Fantasy"
-        ]
-    },
-    {
-        "nome": "Sumikko Gurashi Movie 3: Tsugihagi Koujou no Fushigi na Ko",
-        "image": "https://cdn.myanimelist.net/images/anime/1801/138498.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Comedy"
         ]
     },
     {
@@ -1651,33 +1324,8 @@
         ]
     },
     {
-        "nome": "Shi Shi Chuanshuo",
-        "image": "https://cdn.myanimelist.net/images/anime/1431/126786.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Action",
-            "Sci-Fi"
-        ]
-    },
-    {
-        "nome": "Shaonian Ge Xing: Haiwai Xianshan Pian",
-        "image": "https://cdn.myanimelist.net/images/anime/1621/138844.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Action",
-            "Adventure",
-            "Mystery"
-        ]
-    },
-    {
-        "nome": "Zhen Wu Dianfeng 3rd Season",
-        "image": "https://cdn.myanimelist.net/images/anime/1065/140007.jpg",
+        "nome": "Jian Yu Feng Yun 3rd Season",
+        "image": "https://cdn.myanimelist.net/images/anime/1159/139387.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
@@ -1689,38 +1337,26 @@
         ]
     },
     {
-        "nome": "Shi Fang Wu Sheng",
-        "image": "https://cdn.myanimelist.net/images/anime/1499/139309.jpg",
+        "nome": "Sumikko Gurashi Movie 3: Tsugihagi Koujou no Fushigi na Ko",
+        "image": "https://cdn.myanimelist.net/images/anime/1801/138498.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
-        },
-        "generos": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Shinobanai! Crypto Ninja Sakuya",
-        "image": "https://cdn.myanimelist.net/images/anime/1705/138172.jpg",
-        "time": {
-            "dia": "Ter\u00e7as",
-            "horas": "13:00"
-        },
-        "generos": [
-            "Action"
-        ]
-    },
-    {
-        "nome": "Sumikko Gurashi: Sorairo no Mainichi",
-        "image": "https://cdn.myanimelist.net/images/anime/1796/139313.jpg",
-        "time": {
-            "dia": "Quartas",
-            "horas": "16:20"
         },
         "generos": [
             "Comedy"
+        ]
+    },
+    {
+        "nome": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story Mini Anime",
+        "image": "https://cdn.myanimelist.net/images/anime/1190/139277.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Comedy",
+            "Fantasy"
         ]
     },
     {
@@ -1737,8 +1373,81 @@
         ]
     },
     {
-        "nome": "Sanshiliu Qi",
-        "image": "https://cdn.myanimelist.net/images/anime/1180/138887.jpg",
+        "nome": "Zhen Wu Dianfeng 3rd Season",
+        "image": "https://cdn.myanimelist.net/images/anime/1065/140007.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "nome": "Princess Principal: Crown Handler Movie 3 - Cost for Custom Cars",
+        "image": "https://cdn.myanimelist.net/images/anime/1414/139832.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Mystery"
+        ]
+    },
+    {
+        "nome": "Shi Shi Chuanshuo",
+        "image": "https://cdn.myanimelist.net/images/anime/1431/126786.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "nome": "Shi Fang Wu Sheng",
+        "image": "https://cdn.myanimelist.net/images/anime/1499/139309.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "nome": "Suki na Ko ga Megane wo Wasureta Short Episode Specials",
+        "image": "https://cdn.myanimelist.net/images/anime/1730/140561.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Comedy"
+        ]
+    },
+    {
+        "nome": "Shaonian Ge Xing: Haiwai Xianshan Pian",
+        "image": "https://cdn.myanimelist.net/images/anime/1621/138844.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action",
+            "Adventure",
+            "Mystery"
+        ]
+    },
+    {
+        "nome": "Megumi no Daigo: Kyuukoku no Orange Recap",
+        "image": "https://cdn.myanimelist.net/images/anime/1146/140566.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
@@ -1762,15 +1471,15 @@
         ]
     },
     {
-        "nome": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story Mini Anime",
-        "image": "https://cdn.myanimelist.net/images/anime/1190/139277.jpg",
+        "nome": "Sanshiliu Qi",
+        "image": "https://cdn.myanimelist.net/images/anime/1180/138887.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
-            "Comedy",
-            "Fantasy"
+            "Action",
+            "Drama"
         ]
     },
     {
@@ -1786,11 +1495,22 @@
         ]
     },
     {
-        "nome": "Street Fighter 6 x Spy x Family Movie: Code: White",
-        "image": "https://cdn.myanimelist.net/images/anime/1484/140139.jpg",
+        "nome": "Sumikko Gurashi: Sorairo no Mainichi",
+        "image": "https://cdn.myanimelist.net/images/anime/1796/139313.jpg",
         "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
+            "dia": "Quartas",
+            "horas": "16:20"
+        },
+        "generos": [
+            "Comedy"
+        ]
+    },
+    {
+        "nome": "Shinobanai! Crypto Ninja Sakuya",
+        "image": "https://cdn.myanimelist.net/images/anime/1705/138172.jpg",
+        "time": {
+            "dia": "Ter\u00e7as",
+            "horas": "13:00"
         },
         "generos": [
             "Action"
@@ -1833,6 +1553,19 @@
         ]
     },
     {
+        "nome": "Jiu Tian Xuan Di Jue 5th Season",
+        "image": "https://cdn.myanimelist.net/images/anime/1222/139758.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
         "nome": "Quan Zhi Ming",
         "image": "https://cdn.myanimelist.net/images/anime/1525/138807.jpg",
         "time": {
@@ -1845,16 +1578,53 @@
         ]
     },
     {
-        "nome": "Jiu Tian Xuan Di Jue 5th Season",
-        "image": "https://cdn.myanimelist.net/images/anime/1222/139758.jpg",
+        "nome": "Heart Cocktail Colorful: Fuyu-hen",
+        "image": "https://cdn.myanimelist.net/images/anime/1682/140141.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
-            "Action",
-            "Adventure",
+            "Romance"
+        ]
+    },
+    {
+        "nome": "Xiao Lu He Xiao Lan 4th Season",
+        "image": "https://cdn.myanimelist.net/images/anime/1478/140352.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Boys Love",
+            "Comedy",
+            "Drama",
             "Fantasy"
+        ]
+    },
+    {
+        "nome": "Xiao Lu He Xiao Lan 4th Season",
+        "image": "https://cdn.myanimelist.net/images/anime/1478/140352.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Boys Love",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    {
+        "nome": "Bokura no Ame-iro Protocol Mini Anime",
+        "image": "https://cdn.myanimelist.net/images/anime/1160/139152.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Comedy"
         ]
     },
     {
@@ -1877,28 +1647,6 @@
         },
         "generos": [
             "Romance"
-        ]
-    },
-    {
-        "nome": "Princess Principal: Crown Handler Movie 3 - Cost for Custom Cars",
-        "image": "https://cdn.myanimelist.net/images/anime/1414/139832.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Mystery"
-        ]
-    },
-    {
-        "nome": "Bokura no Ameiro Protocol Mini Anime",
-        "image": "https://cdn.myanimelist.net/images/anime/1160/139152.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Comedy"
         ]
     },
     {
@@ -1926,6 +1674,19 @@
         ]
     },
     {
+        "nome": "Avant",
+        "image": "https://cdn.myanimelist.net/images/anime/1445/139841.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Avant Garde",
+            "Horror",
+            "Supernatural"
+        ]
+    },
+    {
         "nome": "Saero Doljanchi",
         "image": "https://cdn.myanimelist.net/images/anime/1715/139082.jpg",
         "time": {
@@ -1934,6 +1695,17 @@
         },
         "generos": [
             "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "nome": "Mumei",
+        "image": "https://cdn.myanimelist.net/images/anime/1019/139038.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
             "Fantasy"
         ]
     },
@@ -1949,13 +1721,26 @@
         ]
     },
     {
-        "nome": "Mumei",
-        "image": "https://cdn.myanimelist.net/images/anime/1019/139038.jpg",
+        "nome": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita 6th Season",
+        "image": "https://cdn.myanimelist.net/images/anime/1294/140365.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
+            "Boys Love",
+            "Fantasy"
+        ]
+    },
+    {
+        "nome": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita 6th Season",
+        "image": "https://cdn.myanimelist.net/images/anime/1294/140365.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Boys Love",
             "Fantasy"
         ]
     },
@@ -1972,27 +1757,16 @@
         ]
     },
     {
-        "nome": "Avant",
-        "image": "https://cdn.myanimelist.net/images/anime/1445/139841.jpg",
+        "nome": "Shenyuan Youxi",
+        "image": "https://cdn.myanimelist.net/images/anime/1774/140345.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
-            "Avant Garde",
-            "Horror",
-            "Supernatural"
-        ]
-    },
-    {
-        "nome": "Wu Shuang Shu",
-        "image": "https://cdn.myanimelist.net/images/anime/1606/139364.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Action"
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
         ]
     },
     {
@@ -2008,27 +1782,17 @@
         ]
     },
     {
-        "nome": "Feng Qi Luoyang: Shuangzi Zhui Xiong",
-        "image": "https://cdn.myanimelist.net/images/anime/1733/139751.jpg",
+        "nome": "Cong Hong Yue Kaishi",
+        "image": "https://cdn.myanimelist.net/images/anime/1422/140125.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Midnight Mission",
-        "image": "https://cdn.myanimelist.net/images/anime/1479/139322.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Supernatural"
+            "Horror",
+            "Sci-Fi",
+            "Supernatural",
+            "Suspense"
         ]
     },
     {
@@ -2043,26 +1807,61 @@
         ]
     },
     {
-        "nome": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita 6th Season",
-        "image": "https://cdn.myanimelist.net/images/anime/1294/140365.jpg",
+        "nome": "Kabigon to Karakara",
+        "image": "https://cdn.myanimelist.net/images/anime/1982/140236.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
-            "Boys Love",
             "Fantasy"
         ]
     },
     {
-        "nome": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita 6th Season",
-        "image": "https://cdn.myanimelist.net/images/anime/1294/140365.jpg",
+        "nome": "Wu Shuang Shu",
+        "image": "https://cdn.myanimelist.net/images/anime/1606/139364.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
-            "Boys Love",
+            "Action"
+        ]
+    },
+    {
+        "nome": "Midnight Mission",
+        "image": "https://cdn.myanimelist.net/images/anime/1479/139322.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Supernatural"
+        ]
+    },
+    {
+        "nome": "Mingyun Quan Tai",
+        "image": "https://cdn.myanimelist.net/images/anime/1445/140034.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "nome": "Feng Qi Luoyang: Shuangzi Zhui Xiong",
+        "image": "https://cdn.myanimelist.net/images/anime/1733/139751.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action",
+            "Adventure",
             "Fantasy"
         ]
     },
@@ -2090,42 +1889,6 @@
         ]
     },
     {
-        "nome": "Shenyuan Youxi",
-        "image": "https://cdn.myanimelist.net/images/anime/1774/140345.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Action",
-            "Fantasy",
-            "Sci-Fi"
-        ]
-    },
-    {
-        "nome": "Kabigon to Karakara",
-        "image": "https://cdn.myanimelist.net/images/anime/1982/140236.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Fantasy"
-        ]
-    },
-    {
-        "nome": "Glass Mado",
-        "image": "https://cdn.myanimelist.net/images/anime/1073/139961.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Avant Garde",
-            "Drama"
-        ]
-    },
-    {
         "nome": "Totonoe! Sakuma-kun by &sauna",
         "image": "https://cdn.myanimelist.net/images/anime/1778/139497.jpg",
         "time": {
@@ -2146,6 +1909,43 @@
         "generos": [
             "Action",
             "Adventure"
+        ]
+    },
+    {
+        "nome": "Glass Mado",
+        "image": "https://cdn.myanimelist.net/images/anime/1073/139961.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Avant Garde",
+            "Drama"
+        ]
+    },
+    {
+        "nome": "Zhongguo Jingqi Xiansheng (2023)",
+        "image": "https://cdn.myanimelist.net/images/anime/1437/140144.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action",
+            "Supernatural",
+            "Suspense"
+        ]
+    },
+    {
+        "nome": "Yaoguai Senlin",
+        "image": "https://cdn.myanimelist.net/images/anime/1285/139249.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Adventure",
+            "Fantasy"
         ]
     },
     {
@@ -2171,6 +1971,17 @@
         ]
     },
     {
+        "nome": "Gyudon Carnival!",
+        "image": "https://cdn.myanimelist.net/images/anime/1028/139916.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Comedy"
+        ]
+    },
+    {
         "nome": "Binggrae Me2ker Leul Wihayeo",
         "image": "https://cdn.myanimelist.net/images/anime/1637/139061.jpg",
         "time": {
@@ -2181,17 +1992,6 @@
             "Action",
             "Comedy",
             "Fantasy"
-        ]
-    },
-    {
-        "nome": "Gyudon Carnival!",
-        "image": "https://cdn.myanimelist.net/images/anime/1028/139916.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Comedy"
         ]
     },
     {
@@ -2206,15 +2006,15 @@
         ]
     },
     {
-        "nome": "Yaoguai Senlin",
-        "image": "https://cdn.myanimelist.net/images/anime/1285/139249.jpg",
+        "nome": "Huoxing Xi Lu 7 Hao",
+        "image": "https://cdn.myanimelist.net/images/anime/1218/140035.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
-            "Adventure",
-            "Fantasy"
+            "Comedy",
+            "Sci-Fi"
         ]
     },
     {
@@ -2226,57 +2026,6 @@
         },
         "generos": [
             "Action"
-        ]
-    },
-    {
-        "nome": "Mingyun Quan Tai",
-        "image": "https://cdn.myanimelist.net/images/anime/1445/140034.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Action",
-            "Fantasy",
-            "Sci-Fi"
-        ]
-    },
-    {
-        "nome": "Cong Hong Yue Kaishi",
-        "image": "https://cdn.myanimelist.net/images/anime/1422/140125.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Horror",
-            "Sci-Fi",
-            "Supernatural",
-            "Suspense"
-        ]
-    },
-    {
-        "nome": "Zhongguo Jingqi Xiansheng (2023)",
-        "image": "https://cdn.myanimelist.net/images/anime/1437/140144.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Action",
-            "Supernatural",
-            "Suspense"
-        ]
-    },
-    {
-        "nome": "Jiaonang Jihua 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1580/139770.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Sci-Fi"
         ]
     },
     {
@@ -2292,36 +2041,27 @@
         ]
     },
     {
-        "nome": "Penpe to Pinpi Season 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1221/139573.jpg",
+        "nome": "Dan Dao Zhizun",
+        "image": "https://cdn.myanimelist.net/images/anime/1390/140540.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
-            "Slice of Life"
+            "Action",
+            "Adventure",
+            "Fantasy"
         ]
     },
     {
-        "nome": "Hello Carbot Season 14",
-        "image": "https://cdn.myanimelist.net/images/anime/1449/139570.jpg",
+        "nome": "Jiaonang Jihua 2",
+        "image": "https://cdn.myanimelist.net/images/anime/1580/139770.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
-            "Action"
-        ]
-    },
-    {
-        "nome": "Star Card Dream Girls",
-        "image": "https://cdn.myanimelist.net/images/anime/1443/139460.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Supernatural"
+            "Sci-Fi"
         ]
     },
     {
@@ -2337,19 +2077,30 @@
         ]
     },
     {
-        "nome": "Nyankamuchu Season 2",
-        "image": "https://cdn.myanimelist.net/images/anime/1324/139574.jpg",
+        "nome": "Star Card Dream Girls",
+        "image": "https://cdn.myanimelist.net/images/anime/1443/139460.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
-            "Comedy"
+            "Supernatural"
         ]
     },
     {
-        "nome": "Daisuki na Kimi e",
-        "image": "https://cdn.myanimelist.net/images/anime/1921/139639.jpg",
+        "nome": "Hello Carbot Season 14",
+        "image": "https://cdn.myanimelist.net/images/anime/1449/139570.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action"
+        ]
+    },
+    {
+        "nome": "Penpe to Pinpi Season 2",
+        "image": "https://cdn.myanimelist.net/images/anime/1221/139573.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
@@ -2359,15 +2110,14 @@
         ]
     },
     {
-        "nome": "Huoxing Xi Lu 7 Hao",
-        "image": "https://cdn.myanimelist.net/images/anime/1218/140035.jpg",
+        "nome": "Nyankamuchu Season 2",
+        "image": "https://cdn.myanimelist.net/images/anime/1324/139574.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
         },
         "generos": [
-            "Comedy",
-            "Sci-Fi"
+            "Comedy"
         ]
     },
     {
@@ -2384,6 +2134,54 @@
     {
         "nome": "Mythteria 2nd Season",
         "image": "https://cdn.myanimelist.net/images/anime/1561/139978.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Adventure"
+        ]
+    },
+    {
+        "nome": "Daisuki na Kimi e",
+        "image": "https://cdn.myanimelist.net/images/anime/1921/139639.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Slice of Life"
+        ]
+    },
+    {
+        "nome": "Hua Jianghu: Tiangang",
+        "image": "https://cdn.myanimelist.net/images/anime/1891/140224.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "nome": "Cherry Mahou Mini Gekijou",
+        "image": "https://cdn.myanimelist.net/images/anime/1137/140559.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Boys Love",
+            "Comedy",
+            "Supernatural"
+        ]
+    },
+    {
+        "nome": "Pororo Movie: Superstar Daemoheom",
+        "image": "https://cdn.myanimelist.net/images/anime/1297/139096.jpg",
         "time": {
             "dia": "(Incerto)",
             "horas": "(Incerto)"
@@ -2415,6 +2213,18 @@
         ]
     },
     {
+        "nome": "Sakigake!! Reiwa no Danjuku",
+        "image": "https://cdn.myanimelist.net/images/anime/1959/140377.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action",
+            "Comedy"
+        ]
+    },
+    {
         "nome": "100 Gaji Gobaeg",
         "image": "https://cdn.myanimelist.net/images/anime/1152/140201.jpg",
         "time": {
@@ -2423,6 +2233,18 @@
         },
         "generos": [
             "Romance"
+        ]
+    },
+    {
+        "nome": "Igniter",
+        "image": "https://cdn.myanimelist.net/images/anime/1287/140342.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Action",
+            "Sci-Fi"
         ]
     },
     {
@@ -2437,30 +2259,6 @@
         ]
     },
     {
-        "nome": "Pororo Movie: Superstar Daemoheom",
-        "image": "https://cdn.myanimelist.net/images/anime/1297/139096.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Adventure"
-        ]
-    },
-    {
-        "nome": "Hua Jianghu: Tiangang",
-        "image": "https://cdn.myanimelist.net/images/anime/1891/140224.jpg",
-        "time": {
-            "dia": "(Incerto)",
-            "horas": "(Incerto)"
-        },
-        "generos": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ]
-    },
-    {
         "nome": "Siji Tongnian",
         "image": "https://cdn.myanimelist.net/images/anime/1692/140181.jpg",
         "time": {
@@ -2469,6 +2267,50 @@
         },
         "generos": [
             "Drama"
+        ]
+    },
+    {
+        "nome": "Ginga Tetsudou 999 Music Video Seisaku Project",
+        "image": "https://cdn.myanimelist.net/images/anime/1269/140560.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Sci-Fi"
+        ]
+    },
+    {
+        "nome": "Mayi Chuanqi: Zhongji Yi Zhan",
+        "image": "https://cdn.myanimelist.net/images/anime/1408/140185.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Sci-Fi"
+        ]
+    },
+    {
+        "nome": "Maca and Roni 3",
+        "image": "https://cdn.myanimelist.net/images/anime/1872/140546.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Comedy"
+        ]
+    },
+    {
+        "nome": "Shuke Beita: Wujiao Feidie",
+        "image": "https://cdn.myanimelist.net/images/anime/1781/140183.jpg",
+        "time": {
+            "dia": "(Incerto)",
+            "horas": "(Incerto)"
+        },
+        "generos": [
+            "Sci-Fi"
         ]
     }
 ]

@@ -1,6 +1,6 @@
+from time import sleep
 import json
 import requests
-from time import sleep
 
 class AnimeAPI:
     def get_request(self, url_args: str) -> dict:
@@ -30,22 +30,19 @@ class AnimeAPI:
         last_page = data["pagination"]["last_visible_page"]
 
         while last_page >= current_page:
-            for anime in data["data"]:
-                if anime["genres"]:
-                    if "Hentai" in anime["genres"][0]["name"]:
-                        # print(anime["title"])
-                        continue
-                    else:
-                        anime_dict = {}
-                        anime_dict["nome"] = anime["title"]
-                        anime_dict["image"] = anime["images"]["jpg"]["image_url"]
-                        anime_dict["time"] = get_day(anime["broadcast"])
-                        anime_dict["generos"] = [genero["name"] for genero in anime["genres"]]
-                        anime_list.append(anime_dict)
-
             try:
                 data = self.get_request(f"seasons/now?page={current_page}")
-                last_page = data["pagination"]["last_visible_page"]
+                for anime in data["data"]:
+                    if anime["genres"]:
+                        if "Hentai" in anime["genres"][0]["name"]:
+                            continue
+                        else:
+                            anime_dict = {}
+                            anime_dict["nome"] = anime["title"]
+                            anime_dict["image"] = anime["images"]["jpg"]["image_url"]
+                            anime_dict["time"] = get_day(anime["broadcast"])
+                            anime_dict["generos"] = [genero["name"] for genero in anime["genres"]]
+                            anime_list.append(anime_dict)
                 current_page += 1
 
             except KeyError:
@@ -54,6 +51,7 @@ class AnimeAPI:
                     print('esperando')
                     sleep(3)
                     data = self.get_request(f"seasons/now?page={current_page}")
+
 
         return anime_list  # pode retornar uma lista de dicionarios com titulo, imagem e sinopse
         # To começando a gostar dessa ideia
