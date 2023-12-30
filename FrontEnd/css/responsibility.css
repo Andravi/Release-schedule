@@ -1,0 +1,68 @@
+@media screen and (min-device-width: 300px) and (max-device-width: 900px) {
+    /* grid 25px */
+
+    body{
+        background-color: rgb(141, 141, 194);
+        padding-top: 3%;
+        width: 93.4%;
+    }
+
+    #menu{
+        display: block;
+        margin-bottom: 12.5px;
+    }
+
+    #day_options{
+        width: 100%;
+        background-color: rgb(20, 103, 56);    
+
+    }
+
+    #day_options > ul {
+        width: 350px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+    
+    #day_options > ul > li{
+        display: grid;
+        align-items: center;
+        width: auto;
+        height: 100%;
+        list-style-type: none;
+        padding: 0px 15px;
+        border: 3px;
+    }
+    
+    #day_options > ul > li:hover{
+        background-color: aliceblue;
+        cursor: pointer;
+    }
+
+    
+
+    div.Anime-list {
+        display: flex;
+        align-items: stretch;
+        flex-flow: row wrap;/* flex-wrap: wrap; */
+        justify-content: space-between;
+
+        background-color: rgb(20, 103, 56);    
+        width: auto;
+        
+    }
+    
+    div.Anime-card {
+        background-color: aquamarine;
+        width: 280px;
+        height: 525px;
+        display: block;
+        margin: 12.5px auto 0px auto;
+
+        text-align: center;
+        border: 1px solid black;
+    }
+}

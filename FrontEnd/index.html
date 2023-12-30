@@ -7,15 +7,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anime schedule</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/responsibility.css">
     <link rel="icon" type="image/x-icon" href="Images/wall-clock.png"> <!-- Icon made by Pixel perfect from www.flaticon.com -->
 
 </head>
 
 
-<body>
+<header>
     <div id="menu">
         
-        <div id="menu_left">
+        
+        <div id="menu_right">
+            <input type="text" name="pesquisador" id="SearchInput">
+            <input type="button" id="BuscarBtn" value="Buscar">
+        </div>
+    </div>
+</header>
+
+<body>
+    
+    <div id="day_options">
                 <ul>
                     <li>Segunda</li>
                     <li>Terça</li>
@@ -27,12 +38,6 @@
                     <li>Todos</li>
                 </ul>
         </div>
-        <div id="menu_right">
-            <input type="text" name="pesquisador" id="SearchInput">
-            <input type="button" id="BuscarBtn" value="Buscar">
-        </div>
-    </div>
-
     <div class="Anime-list"></div>
     
     <!-- <script src="realeaseList.js" ></script> -->

@@ -80,14 +80,13 @@ function searchInList(name) {
 
 
 
-let ul = document.getElementById('menu_left').children[0];  // Parent BuscarBtn
+let ul = document.getElementById('day_options').children[0];  // Parent BuscarBtn
 let buscarBtn = document.getElementById('BuscarBtn');
 
 ul.addEventListener('click', function (e) {
     if (e.target.tagName === "LI") {
         clearChildres("Anime-list")
         if (e.target.innerHTML == "Todos"){
-            console.log("deveria")
             showList()
         } else {
             showList(e.target.innerHTML + "s")

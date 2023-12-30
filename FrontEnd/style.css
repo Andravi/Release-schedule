@@ -15,10 +15,11 @@ body{
     justify-content: baseline;
 }
 
-#menu_left{
+#day_options{
     width: 75%;
 }
-#menu_left > ul {
+
+#day_options > ul {
     display: flex;
     padding: 0px;
     flex-flow: row wrap;
@@ -28,7 +29,7 @@ body{
     height: 35px;
 }
 
-#menu_left > ul > li{
+#day_options > ul > li{
     display: grid;
     align-items: center;
     width: auto;
@@ -38,7 +39,7 @@ body{
     border: 3px;
 }
 
-#menu_left > ul > li:hover{
+#day_options > ul > li:hover{
     background-color: aliceblue;
     cursor: pointer;
 }
